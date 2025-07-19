@@ -46,9 +46,9 @@ The Super Store Sales Dashboard is an interactive data visualization project des
               From raw data to polished dashboard — showcases data cleaning, analysis, and visualization skills in one place.
 
  # Repository structure 
-   # * Data:   https://github.com/Sikandarkumar07/Excel-dashboard/blob/main/Superstore%20Data.xlsx
-   # * Dashboard:  https://github.com/Sikandarkumar07/Excel-dashboard/blob/main/Dashboard.xlsx
-   # * Image:  ![Sales Dashboard Image](https://github.com/user-attachments/assets/6321e2f7-5a41-4559-b5a8-54d9d5b01210)
+    * Data:   https://github.com/Sikandarkumar07/Excel-dashboard/blob/main/Superstore%20Data.xlsx
+    * Dashboard:  https://github.com/Sikandarkumar07/Excel-dashboard/blob/main/Dashboard.xlsx
+    * Image:  ![Sales Dashboard Image](https://github.com/user-attachments/assets/6321e2f7-5a41-4559-b5a8-54d9d5b01210)
 
 
 # 🤝 Feedback & Collaboration
